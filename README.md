@@ -7,7 +7,7 @@
 ###
 
 <p align="left">
-I build products that solve real business problems and scale reliably. Some of my recent work includes:<br><br>1. Autonomous AI Hotel Receptionist App <br>2. AI-Powered Geo-Optimised Content Engine<br>3. AI-driven Price Fairness Model (Real Estate)<br>4. WhatsApp Automation for Lead Gen & Upsell<br>5. Search & Ads Personalization Systems<br><br>Across these projects, my goal was simple: build AI solutions that work in the real world, achieve fast PMF, and deliver meaningful revenue and efficiency gains.</p>
+I build products that solve real business problems and scale reliably. Some of my recent work includes:<br><br>1. AI Hotel Concierge App <br>2. GEO Optimised Blog Creation Engine<br>3. Price Fairness Model (Real Estate)<br>4. WhatsApp Automation for Lead Gen & Upsell<br>5. Search & Ads Personalization Systems<br><br>Across these projects, my goal was simple: build solutions that work in the real world, achieve fast PMF, and deliver meaningful revenue and efficiency gains, using AI.</p>
 
 ###
 
